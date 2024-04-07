@@ -1,0 +1,8 @@
+{
+    "name":"My Chrome Extension",
+    "version":"1.0.0",
+    "manifest_version":2,
+    "author":"Bhanu Pratap Singh",
+    "description":"This is my chrome extension",
+    "browser_action":{"default_popup":"index.html"}
+}
